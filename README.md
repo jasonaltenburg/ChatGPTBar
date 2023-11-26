@@ -2,7 +2,7 @@
 
 This project is meant to provide a simple popup bar and interface for on the fly inquiry to ChatGPT, through Python, without the browser.
 
-** Press Ctrl + Shift + Tilde ~` to trigger the ChatGPTBar **
+** Press Ctrl + Alt + Tilde ~` to trigger the ChatGPTBar **
 
 # Desired Features
 
