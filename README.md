@@ -6,12 +6,13 @@ This project is meant to provide a simple popup bar and interface for on the fly
 
 # Desired Features
 
-Would like to add a cancel or exit
-A graceful exit for the program
-Condense the bar, so it takes up less screen real estate
-options for transparency
-system tray Icon while running
-Options to output via small window, text overlay, or voice
+Wheel of Frustration to indicate activity
+Cancel or exit button  
+Graceful exit for the program  
+Condense the bar, so it takes up less screen real estate  
+options for transparency  
+system tray Icon while running  
+Options to output via small window, text overlay, or voice  
 
 # Contributing
 
